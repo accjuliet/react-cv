@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.center {
+  position:absolute;
+  width:640px;
+  height:460px;
+  left:50%;
+  border:1px solid #f0f0f0;
+  top:50%;
+  overflow:hidden;
+  margin-left:-320px;
+  margin-top:-250px;
+}
+

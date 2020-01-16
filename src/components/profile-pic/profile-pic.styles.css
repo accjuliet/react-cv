@@ -1,0 +1,12 @@
+.pic {
+    width: 70px;
+    padding: 52px;
+    background: white;
+    text-align: center;
+}
+
+.pic img {
+    width: 65px;
+    height: 65px;
+    border-radius: 60px;
+}
